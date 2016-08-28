@@ -1,2 +1,2 @@
 # pruebaUNAD
-Archivo de prueba para la asignatura desarrollo de sitios web
+Archivo de prueba para la asignatura diseño de sitios web
